@@ -8,3 +8,4 @@ Add this to your `.pre-commit-config.yaml`:
         sha: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: pep8
+            args: [--max-line-length=120]
