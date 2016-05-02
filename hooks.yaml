@@ -1,0 +1,6 @@
+-   id: pep8
+    name: pep8
+    entry: pep8
+    language: python
+    files: \.py$
+    args: []
